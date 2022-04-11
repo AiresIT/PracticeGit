@@ -1,1 +1,2 @@
 Line 1. This is entered in Line One
+Line 2. I have entered something in Line 2.
